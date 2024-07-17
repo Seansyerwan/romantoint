@@ -1,0 +1,1 @@
+## This is my answer to the leetcode question of converting Roman numerals to a number, with the number being between 1 and 3999. This answer beat 66.48% of answers in terms of speed, and 74.12% in terms of memory, with it primarily being done via switch statements.
